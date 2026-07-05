@@ -64,7 +64,7 @@ ROW_NUMBER() over(partition by category order by count(customer_id)desc) as item
 from customer
 group by category,item_purchased
 )
-select item_rank, category, item_purhased, total_orders,
+select item_rank, category, item_purchased, total_orders
 from item_counts 
 where item_rank<=3;
 
