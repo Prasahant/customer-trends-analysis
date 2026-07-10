@@ -273,7 +273,7 @@ pip install pandas numpy matplotlib seaborn plotly sqlalchemy
 > Add your dashboard screenshot here
 
 ```
-Images/dashboard.png
+Image/dashboard.png
 ```
 
 ---
