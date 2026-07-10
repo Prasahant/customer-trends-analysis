@@ -273,7 +273,7 @@ pip install pandas numpy matplotlib seaborn plotly sqlalchemy
 > Add your dashboard screenshot here
 
 ```
-Image/dashboard.png
+[Image/dashboard.png](https://github.com/Prasahant/customer-trends-analysis/blob/main/Image/dashboard.png)
 ```
 
 ---
