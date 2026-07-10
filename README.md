@@ -183,6 +183,8 @@ Example:
 
 - Age vs Purchase Amount
 - Review Rating vs Purchase Amount
+- <img width="1215" height="255" alt="Screenshot 2026-07-10 235551" src="https://github.com/user-attachments/assets/34cc1211-3067-4c98-973b-999ae70889b4" />
+
 
 ---
 
